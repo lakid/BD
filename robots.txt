@@ -1,0 +1,23 @@
+User-agent: *
+Sitemap: http://bookdome.com/sitemap.xml.gz
+Disallow: /tmp/
+
+User-agent: Wget
+Disallow: /
+
+User-agent: Wget/1.10.1
+Disallow: /
+
+User-agent: Wget/1.8.2
+Disallow: /
+
+User-agent: Wget/1.7
+Disallow: /
+
+User-agent: Wget/1.9.1
+Disallow: /
+
+User-agent: lftp/3.4.0
+Disallow: /
+
+
